@@ -9,35 +9,13 @@ html {
 }
 
 body {
-	margin-top: 300px;
-	text-align: center;
+	background-color: white;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 50px;
+	font-size: 25px;
+	color: #000000;
 }
 
 a {
 	text-decoration: inherit;
-}
-
-/* button stuff */
-.swagButton {
-	color: #0081ff;
-	font-family: 'Roboto';
-	font-size: 40px;
-	text-align: center;
-	
-	
-	border: solid 2px #0081ff;
-	border-radius: 50px;
-	
-	padding: 10px 80px;
-	
-	-webkit-transition-duration: 400ms;
-	transition-duration: 400ms;
-	
-}
-
-.swagButton:hover {
-	
-	background-color: #0081ff;
-	color: #fff;
-	
 }
